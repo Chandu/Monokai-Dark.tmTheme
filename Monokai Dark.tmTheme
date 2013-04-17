@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Monokai Dark</string>
+    <string>Monokai Dark - Chandu</string>
     <key>settings</key>
     <array>
         <dict>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#0D0D0D</string>
+                <string>#191919</string>
                 <key>caret</key>
                 <string>#F8F8F0</string>
                 <key>foreground</key>
