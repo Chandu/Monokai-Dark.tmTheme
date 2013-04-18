@@ -2,7 +2,7 @@
 
 A [TextMate][1] _(and [Sublime Text][2])_ theme __HEAVILY__ based on [Monokai][3] by [Wimer Hazenberg][4].
 
-Monokai Dark is a quickly tweaked version of [Monokai][3], changed to a darker background with a few color changes and tweaks for CSS.
+Monokai Dark is a quickly tweaked version of [Monokai][3], changed to a darker background (#141414 to be specific) with a few color changes and tweaks for CSS.
 
 ___Note__: this theme was only tested in [Sublime Text][2]. It should be fully compatible with [TextMate][1], but if you come across any errors, please report them and I'll do my best to fix them._
 
